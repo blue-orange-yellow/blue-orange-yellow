@@ -9,7 +9,6 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I mainly use Python and Typescript at work, but I like Rust and study.
-- 📫 How to reach me: [Twitter - @immoraroutine](https://twitter.com/immoraroutine)
 <br>
 
 
