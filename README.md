@@ -9,7 +9,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,python,js,ts,react,flask,fastapi,django,docker,aws,mysql,postgresql,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,python,js,ts,docker,aws" />
 <br>
 
 
